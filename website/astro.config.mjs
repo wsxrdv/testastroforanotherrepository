@@ -9,7 +9,6 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'My Docs',
-			base: '/testastroforanotherrepository',
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
